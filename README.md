@@ -4,5 +4,6 @@
 </h2>
 <h3 align="center"> I am Artem from Kaliningrad. Passionate about cryptography and information security.</h3>
 <h3 align="center">I study methods of information protection.</h3>
-<h3 align="center">Programming in Python.
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25"/></h3>
+<h3 align="center">Programming in Python.<h3>
+<h3>Contact me:</h3>
+<h3><a href="https://t.me/DUberAlles"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"></a></h3>
