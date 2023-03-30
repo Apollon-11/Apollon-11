@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/Apollon-11" target="_blank">Artem</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
 <h2 align="center"> About me 
 </h2>
 <h3 align="center"> I am Artem from Kaliningrad. Passionate about cryptography and information security.</h3>
