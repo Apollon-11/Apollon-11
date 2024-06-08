@@ -3,5 +3,5 @@
 </h2>
 <h3 align="center"> I from Kaliningrad.</h3>
 <h3 align="center">I study methods of information protection.</h3>
-<h3 align="center">Programming in Python and C++.<h3>
+<h3 align="center">Programming in C++ and Python.<h3>
 
